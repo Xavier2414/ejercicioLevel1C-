@@ -7,8 +7,8 @@ public static void main((string[] args){
 
 
     public constructor(int cantidadActual, int capacidadMaxima){
-        cantidadActual =0;
-        capacidadMaxima=1000;
+        this.cantidadActual=0;
+        this.cantidadActual=1000;
     }
 
     //cantidadActual
