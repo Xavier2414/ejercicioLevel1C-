@@ -55,9 +55,9 @@ public class Libro(){
     funtion mostrar(){
        Console.WriteLine("titulo del libro: "+titulo+", autor del libro:" +autor+"libors disponibles"+numEjemplaresLibro+", libros prestados: "+numEjemplaresPrestados); 
 
-       
-    }
 
+    }
+a
 
 
 
